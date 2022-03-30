@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Data Source=(LocalDb)\MSSQLLocalDB;Database=EmployeeDb;Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models

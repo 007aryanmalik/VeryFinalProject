@@ -1,0 +1,96 @@
+﻿@model IEnumerable<GoogleAuthentication.Models.Product>
+@{
+ViewBag.Title = "Index";
+Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+*{
+box-sizing: border-box;
+}
+
+
+
+body {
+font-family: arial, helvetica, sans-serif;
+}
+
+
+
+.img_size
+{
+height:270px;
+width:270px;
+}
+/* float four columns side by side */
+.column {
+float: left;
+width: 25%;
+padding: 0 10px;
+}
+
+
+
+
+/* remove extra left and right margins, due to padding */
+.row {margin: 0 -5px;}
+
+
+
+
+
+/* clear floats after the columns */
+.row:after {
+content: "";
+display: table;
+clear: both;
+}
+
+
+
+/* style the counter cards */
+.card {
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+padding: 16px;
+text-align: center;
+background-color: #f0e8b1;
+}
+</style>
+</head>
+<body>
+
+
+
+<h1>Welcome to Food Cart</h1>
+
+
+
+<div class="row">
+@foreach (var item in Model)
+{
+
+
+
+<div class="column">
+<div class="card">
+<img class="img_size" src="@Url.Content(@item.ProductPicture) " alt= "@item.ProductName"/>
+<div class="card-body">
+<h5 class="card-title"> @Html.DisplayFor(modelitem => item.ProductName)</h5>
+<p class="card-text"> @Html.DisplayFor(modelitem => item.ProductDescription)</p>
+<b><p class="card-text">₹@Html.DisplayFor(modelitem => item.ProductPrice)</p></b>
+<a  asp-area="" asp-controller="Home" asp-action="AddToCart"><button class="btn btn-primary">Add to Cart</button></a>
+</div>
+</div>
+
+
+
+</div>
+}
+</div>
+</body>
+</html>

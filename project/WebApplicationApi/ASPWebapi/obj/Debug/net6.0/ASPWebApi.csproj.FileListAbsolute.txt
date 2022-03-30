@@ -1,0 +1,276 @@
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.csproj.AssemblyReference.cache
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.AssemblyInfoInputs.cache
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.AssemblyInfo.cs
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.csproj.CoreCompileInputs.cache
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.RazorAssemblyInfo.cache
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.RazorAssemblyInfo.cs
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\appsettings.Development.json
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\appsettings.json
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.exe
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.deps.json
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.runtimeconfig.json
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.pdb
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Humanizer.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\scopedcss\bundle\ASPWebApi.styles.css
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.csproj.CopyComplete
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\refint\ASPWebApi.dll
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.pdb
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.genruntimeconfig.cache
+C:\WEBAPI\Complete Workin Web Api Core ASPNEt Core MVC CURD And Consume Application\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ref\ASPWebApi.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.csproj.AssemblyReference.cache
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.AssemblyInfoInputs.cache
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.AssemblyInfo.cs
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.csproj.CoreCompileInputs.cache
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.RazorAssemblyInfo.cache
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.RazorAssemblyInfo.cs
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\appsettings.json
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.exe
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.deps.json
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.runtimeconfig.json
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.pdb
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Humanizer.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\scopedcss\bundle\ASPWebApi.styles.css
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.csproj.CopyComplete
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\refint\ASPWebApi.dll
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.pdb
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.genruntimeconfig.cache
+C:\Users\raisak\Desktop\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ref\ASPWebApi.dll
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.csproj.AssemblyReference.cache
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.AssemblyInfoInputs.cache
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.AssemblyInfo.cs
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.csproj.CoreCompileInputs.cache
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.RazorAssemblyInfo.cache
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.RazorAssemblyInfo.cs
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.dll
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ref\ASPWebApi.dll
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.pdb
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\appsettings.Development.json
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\appsettings.json
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.exe
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.deps.json
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.runtimeconfig.json
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.pdb
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Humanizer.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\scopedcss\bundle\ASPWebApi.styles.css
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.csproj.CopyComplete
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.genruntimeconfig.cache
+C:\project\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\refint\ASPWebApi.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\project\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.csproj.AssemblyReference.cache
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.AssemblyInfoInputs.cache
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.AssemblyInfo.cs
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.csproj.CoreCompileInputs.cache
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.RazorAssemblyInfo.cache
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.RazorAssemblyInfo.cs
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\refint\ASPWebApi.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.pdb
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\appsettings.Development.json
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\appsettings.json
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.exe
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.deps.json
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.runtimeconfig.json
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\ASPWebApi.pdb
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Humanizer.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\scopedcss\bundle\ASPWebApi.styles.css
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.csproj.CopyComplete
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ASPWebApi.genruntimeconfig.cache
+C:\Final\project\WebApplicationApi\ASPWebapi\obj\Debug\net6.0\ref\ASPWebApi.dll
